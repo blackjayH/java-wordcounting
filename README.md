@@ -4,6 +4,6 @@
 - MySQL + JSP + Bootstrap
 
 담당 부분
-- 네이버 뉴스 크롤링 + 대용량 데이터 전처리 : Jsoup
-- Stored Procedure를 활용한 Model 구현 : JSP + MySQL 
-- 옵션에 따른 결과 + 타이머 구현 : JSP + JS
+- Jsoup : 네이버 뉴스 크롤링 + 대용량 데이터 전처리 
+- JSP + MySQL : Stored Procedure를 활용한 Model 구현
+- JSP + JS : 옵션에 따른 결과 + 타이머 구현
